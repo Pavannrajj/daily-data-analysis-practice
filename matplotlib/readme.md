@@ -7,3 +7,5 @@
 * Area plot
 * Histogram 
 * Bar charts on a dataset
+* Pie chart
+* Box plots
