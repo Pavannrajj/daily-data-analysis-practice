@@ -9,3 +9,6 @@
 * Bar charts on a dataset
 * Pie chart
 * Box plots
+* Subplots
+* Scatter Plots
+* Bubble Plots
